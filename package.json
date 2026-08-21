@@ -1,6 +1,6 @@
 {
   "name": "@bigfootds/unreal-semver-updater",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Update an Unreal Engine project's game version from Node.js or the command line.",
   "license": "MIT",
   "author": "BigfootDS",
