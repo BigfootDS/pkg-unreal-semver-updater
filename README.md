@@ -77,3 +77,4 @@ After the initial npm publication, CD releases every conventional commit that re
 - Any other conventional commit type creates a patch release.
 
 The workflow rejects a non-conventional commit that reaches `main`, commits the generated version, creates its `vX.Y.Z` tag and GitHub release, then publishes with npm Trusted Publishing. All feature work should use conventional commits and be merged into `main` through a pull request. If squash-merging, ensure the resulting squash commit (usually the pull request title) is conventional too.
+
